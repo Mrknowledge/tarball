@@ -39,10 +39,15 @@ libss 被debugfs使用。
 libuuid 用来给对象产生唯一的ID使之可以在本地系统之外引用。
 
 ## servers
+
 ### pureftp_logdownload
 内嵌一个默认的logdownload用户版本的pureftp服务器
 
 ## lib
-### snappy-1.1.3
 
+### snappy-1.1.3
+snappy压缩算法二进制库
+
+### minini
+一个迷你的ini配置文件读写源码库
 
